@@ -24,3 +24,16 @@ En este ejercicio aplicamos las siguientes técnicas avanzadas de consulta en T-
 │   ├── ...
 └── images/
     └── [Capturas de pantalla del resultado de cada consulta]
+```
+
+----
+
+### Detalle de archivos:
+
+* **`Laboratorio 03 - Write advanced T-SQL queries.pdf`**: Documento completo con las instrucciones del laboratorio y las capturas del paso a paso.
+* **`.sql/`**: Carpeta con todos los scripts T-SQL ejecutados de forma ordenada.
+* **`images/`**: Capturas de pantalla con la salida de las consultas en SSMS.
+
+---
+
+**Tecnologías utilizadas:** SQL Server 2025, SQL Server Management Studio (SSMS), Git & GitHub.
